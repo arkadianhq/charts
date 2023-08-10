@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  spock:
+  nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-10T06:35:57.852300349+05:30"
+    created: "2023-08-10T06:53:32.535120433+05:30"
     description: A Helm chart for Kubernetes
-    digest: 1998a11ee0159859ab5244195a05d0220dad41a3de118a14b31d755ba26d7003
-    name: spock
+    digest: 9db452dd82c6a4774b2cacef398c9404bd9d57b8f3864ed436cf1466074e0c7f
+    name: nginx
     type: application
     urls:
-    - https://charts.arkadianhq.com/packages/spock-0.1.0.tgz
+    - https://charts.arkadianhq.com/packages/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-10T06:35:57.850041675+05:30"
+generated: "2023-08-10T06:53:32.533244012+05:30"
