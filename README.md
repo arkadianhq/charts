@@ -1,5 +1,5 @@
 # ArkadianHQ's Public GA Helm Repo
-> Note: ArkadianHQ's public helm repo is hosted on Github Pages. If you'd like a better QoS and want to set up your own production grade helm repo, send a mail to arkadianhq@gmail.com and we'd get back to you at the earliest.🙂
+> Note: ArkadianHQ's public helm repo is hosted on Github Pages. If you'd like a better QoS and want to set up your own production grade helm repo, send a mail to hello@arkadianhq.com and we'd get back to you at the earliest.🙂
 
 ## Usage
 * Add ArkadianHQ's helm repo
